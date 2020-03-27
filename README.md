@@ -3,7 +3,7 @@ Malaysia COVID-19 dataset by country, states and confirmed cases types.
 
 ## Contributing
 You can help by filling the blank unknown values in some of the dataset or checking the values so that they are correct. You can search for the data in the sources below or with other methods.
-Fork the project, make the modification and submit a pull request. You **must include a source** in your pull request to verify its credibility.
+Fork the project, make the modification and submit a pull request. You **must include source/s** in your pull request to verify its credibility. If you don't know how to make modification, feel free to create a new issue.
 
 ## Source
 Currently MOH does not provide a platform that provides **full** data on the COVID-19 cases in Malaysia.
