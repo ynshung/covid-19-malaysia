@@ -7,7 +7,7 @@ Fork the project, make the modification and submit a pull request. You **must in
 
 ## Source
 Currently MOH does not provide a platform that provides **full** data on the COVID-19 cases in Malaysia.
-Data are retrieved from multiple offical sources such as [Desk of DG](https://kpkesihatan.com/), [MOH Facebook Page](https://www.facebook.com/kementeriankesihatanmalaysia/), [CPRC KKM Telegram Channel](https://t.me/cprckkm), [Twitter of DG](https://twitter.com/DGHisham) etc. I cannot guarantee full accuracy of this data.
+Data are retrieved from multiple offical sources such as [Desk of DG](https://kpkesihatan.com/), [MOH Facebook Page](https://www.facebook.com/kementeriankesihatanmalaysia/), [CPRC KKM Telegram Channel](https://t.me/cprckkm), [Twitter of DG](https://twitter.com/DGHisham), [Info Sihat](https://www.infosihat.gov.my/index.php/wabak-novel-coronavirus-atau-2019ncov) etc. I cannot guarantee full accuracy of this data.
 
 ## Notes
 * Since some death cases are reported after investigation are done that confirmed it is linked to COVID-19, the data are counted with the date of annoucement instead of date of patient's death.
