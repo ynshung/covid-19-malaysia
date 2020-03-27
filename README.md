@@ -10,7 +10,7 @@ Currently MOH does not provide a platform that provides **full** data on the COV
 Data are retrieved from multiple offical sources such as [Desk of DG](https://kpkesihatan.com/), [MOH Facebook Page](https://www.facebook.com/kementeriankesihatanmalaysia/), [CPRC KKM Telegram Channel](https://t.me/cprckkm), [Twitter of DG](https://twitter.com/DGHisham) etc. I cannot guarantee full accuracy of this data.
 
 ## Notes
-* Death cases in a date are counted when the patient passed away regardless of time. That means new death/s after the offical annoucement (around 5pm) will also be counted in that day.
+* Since some death cases are reported after investigation are done that confirmed it is linked to COVID-19, the data are counted with the date of annoucement instead of date of patient's death. (States death count may be inaccurate!)
 * Blank spaces means that the values are not available while dashes means not applicable (roughly).
 * The 'icu' column represents the current number of patients under the intensive care unit **at that date**.
 * The 'pending' column represents the current number of pending cases **at that date**.
