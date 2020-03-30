@@ -1,5 +1,5 @@
 # covid-19-malaysia
-Malaysia COVID-19 dataset by country, states and confirmed cases types.
+Malaysia COVID-19 dataset by country, states, districts and confirmed cases types.
 
 ## Contributing
 You can help by filling the blank unknown values in some of the dataset or checking the values so that they are correct. You can search for the data in the sources below or with other methods.
@@ -9,12 +9,12 @@ Fork the project, make the modification and submit a pull request. You **must in
 Currently MOH does not provide a platform that provides full comprehensive data on the COVID-19 cases in Malaysia.
 
 Data are retrieved from multiple offical sources such as:
-* [Desk of DG](https://kpkesihatan.com/)
 * [MOH Facebook Page](https://www.facebook.com/kementeriankesihatanmalaysia/)
 * [CPRC KKM Telegram Channel](https://t.me/cprckkm)
+* [Desk of DG](https://kpkesihatan.com/)
+* [KKM Portal MyHealth Twitter](https://twitter.com/MyHEALTHKKM)
 * [Twitter of DG](https://twitter.com/DGHisham)
 * [Info Sihat](https://www.infosihat.gov.my/index.php/wabak-novel-coronavirus-atau-2019ncov)
-* [KKM Portal MyHealth Twitter](https://twitter.com/MyHEALTHKKM)
 
 I cannot guarantee full accuracy of this data.
 
