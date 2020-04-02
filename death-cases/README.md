@@ -8,4 +8,4 @@
 6. A few patient such as 5 and 39 passed away at home before getting treatment / treated and had went back home.
 7. The data provided is fully for educational / analytical purposes.
 
-🕯️ May those who had lost in the battle rest in peace.
+🕯️ **May those who had lost in the battle rest in peace.**
