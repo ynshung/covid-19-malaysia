@@ -44,3 +44,8 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 43,2629,MYS,m,73,,y,29/3/2020,30/3/2020,tengku-ampuan-rahimah,selangor
 44,193,MYS,f,80,close-contact,y,13/3/2020,31/3/2020,kuala-lumpur,kuala-lumpur
 45,1053,MYS,m,62,close-contact,y,17/3/2020,31/3/2020,kuala-lumpur,kuala-lumpur
+46,2909,MYS,m,37,,y,28/3/2020,31/3/2020,sultanah-aminah,johor
+47,2910,MYS,m,78,,y,17/3/2020,29/3/2020,sultanah-fatimah,johor
+48,2572,MYS,m,85,,y,29/3/2020,2/4/2020,kluang,johor
+49,1273,MYS,m,61,close-contact,,20/3/2020,1/4/2020,general,sarawak
+50,1767,MYS,m,69,,,22/3/2020,2/4/2020,tunku-jaafar,negeri-sembilan
