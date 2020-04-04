@@ -48,4 +48,7 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 47,2910,MYS,m,78,,y,17/3/2020,29/3/2020,sultanah-fatimah,johor
 48,2572,MYS,m,85,,y,29/3/2020,2/4/2020,kluang,johor
 49,1273,MYS,m,61,close-contact,,20/3/2020,1/4/2020,general,sarawak
-50,1767,MYS,m,69,,,22/3/2020,2/4/2020,tunku-jaafar,negeri-sembilan
+50,1767,MYS,m,69,,,22/3/2020,2/4/2020,tuanku-jaafar,negeri-sembilan
+51,2561,MYS,f,84,,y,12/3/2020,2/4/2020,national-heart-institute,kuala-lumpur
+52,2122,MYS,m,52,,,18/3/2020,3/4/2020,tuanku-jaafar,negeri-sembilan
+53,2034,MYS,f,73,,y,24/3/2020,3/4/2020,raja-permaisuri-bainun,perak
