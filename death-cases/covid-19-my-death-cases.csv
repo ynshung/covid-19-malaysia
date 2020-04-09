@@ -62,3 +62,5 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 61,2200,MYS,m,66,,y,26/3/2020,4/4/2020,keningau,sabah
 62,3663,MYS,m,67,close-contact-tabligh,y,29/3/2020,5/4/2020,sultanah-nur-zahirah,terrenganu
 63,3794,MYS,m,71,gathering-indonesia,,5/4/2020,6/4/2020,kluang,johor
+64,2903,MYS,f,58,,y,30/3/2020,7/4/2020,tuanku-jaafar,negeri-sembilan
+65,1906,PAK,m,69,tabligh,y,22/3/2020,8/4/2020,kuala-lumpur,kuala-lumpur
