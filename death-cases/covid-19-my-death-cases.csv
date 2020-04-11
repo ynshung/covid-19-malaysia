@@ -66,3 +66,6 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 65,1906,PAK,m,69,tabligh,y,22/3/2020,8/4/2020,kuala-lumpur,kuala-lumpur
 66,2798,MYS,m,59,tabligh,y,31/3/2020,9/4/2020,melaka,melaka
 67,2864,MYS,f,23,close-contact,y,30/3/2020,9/4/2020,general,sarawak
+68,694,MYS,m,62,close-contact-tabligh,y,17/3/2020,10/4/2020,queen-elizabeth,sabah
+69,4229,MYS,m,77,,y,27/3/2020,10/4/2020,kuala-lumpur,kuala-lumpur
+70,4230,MYS,f,88,close-contact,y,20/3/2020,10/4/2020,university-of-malaya,kuala-lumpur
