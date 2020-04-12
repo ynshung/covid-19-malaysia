@@ -69,3 +69,6 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 68,694,MYS,m,62,close-contact-tabligh,y,17/3/2020,10/4/2020,queen-elizabeth,sabah
 69,4229,MYS,m,77,,y,27/3/2020,10/4/2020,kuala-lumpur,kuala-lumpur
 70,4230,MYS,f,88,close-contact,y,20/3/2020,10/4/2020,university-of-malaya,kuala-lumpur
+71,3091,MYS,m,66,close-contact-tabligh,y,1/4/2020,11/4/2020,tuanku-jaafar,negeri-sembilan
+72,537,MYS,m,71,,y,15/3/2020,11/4/2020,sungai-buloh,selangor
+73,2399,MYS,m,63,,y,25/3/2020,11/4/2020,raja-permaisuri-bainun,perak
