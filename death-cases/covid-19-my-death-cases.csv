@@ -76,3 +76,8 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 75,3469,MYS,m,90,,y,1/4/2020,12/4/2020,taiping,perak
 76,4314,MYS,f,47,,y,8/4/2020,12/4/2020,general,sarawak
 77,2797,MYS,m,62,,y,31/3/2020,13/4/2020,melaka,melaka
+78,4532,???,m,??,,,-,6/4/2020,-,sabah
+79,2052,MYS,m,65,,y,27/3/2020,14/4/2020,sungai-buloh,selangor
+80,4818,MYS,m,63,,y,7/4/2020,14/4/2020,kuala-lumpur,kuala-lumpur
+81,4521,MYS,m,74,close-contact-tabligh,y,9/4/2020,13/4/2020,melaka,melaka
+82,1649,MYS,m,81,tabligh,y,26/3/2020,14/4/2020,kluang,johor
