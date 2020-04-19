@@ -85,3 +85,5 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 84,4711,MYS,m,66,,y,9/4/2020,15/4/2020,kuala-lumpur,kuala-lumpur
 85,5064,MYS,m,85,close-contact,y,15/4/2020,16/4/2020,tengku-ampuan-afzan,pahang
 86,5183,MYS,m,85,close-contact,y,1/4/2020,16/4/2020,university-of-malaya,kuala-lumpur
+87,2657,MYS,m,60,,y,30/3/2020,12/4/2020,kuala-lumpur,kuala-lumpur
+88,5252,MMR,m,36,,,17/4/2020,17/4/2020,selayang,selangor
