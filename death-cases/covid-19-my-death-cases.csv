@@ -91,3 +91,4 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 90,2050,MYR,f,72,close-contact,y,27/3/2020,20/4/2020,sungai-buloh,selangor
 91,4090,MYR,m,69,,y,6/4/2020,21/4/2020,general,sarawak
 92,5332,MYR,m,92,close-contact,y,8/4/2020,21/4/2020,kuala-lumpur,kuala-lumpur
+93,5483,MYR,f,72,,y,20/4/2020,22/4/2020,general,sarawak

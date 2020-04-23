@@ -30,5 +30,11 @@ Please read the notes before using the data or contributing to the data!
 * On 16-18/3/2020, data of WP Kuala Lumpur is combined with WP Putrajaya.
 * On 10/4/2020 - now, data of PUI cases and close contact cases are combined together.
 
+## TODO
+* Daily negative cases from [MOH](http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan)
+* Deaths cases - type of chronic diseases of patients
+* Daily MCO violation
+* Cases by states' cities
+
 ## License
 This covid-19-malaysia data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/
