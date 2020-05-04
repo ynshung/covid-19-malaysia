@@ -102,3 +102,5 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 101,4657,MYR,m,64,close-contact,12/4/2020,29/4/2020,tengku-ampuan-afzan,pahang
 102,5282,MYR,m,72,,y,16/4/2020,30/4/2020,general,sarawak
 103,5441,MYR,m,66,close-contact,y,14/4/2020,30/4/2020,kuala-lumpur,kuala-lumpur
+104,5539,MYR,m,82,,y,22/4/2020,2/5/2020,sungai-buloh,selangor
+105,5837,MYR,m,64,,y,27/4/2020,3/5/2020,tuanku-jaafar,negeri-sembilan
