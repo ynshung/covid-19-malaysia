@@ -31,6 +31,7 @@ Please read the notes before using the data or contributing to the data!
 * On 10/4/2020 - now, data of PUI cases and close contact cases are combined together.
 
 ## TODO
+* Update states' districts cases
 * Daily negative cases from [MOH](http://www.moh.gov.my/index.php/pages/view/2019-ncov-wuhan)
 * Deaths cases - type of chronic diseases of patients
 * Daily MCO violation
