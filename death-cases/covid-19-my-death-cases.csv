@@ -114,3 +114,5 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 113,6856,MYR,f,53,healthcare-worker,y,5/5/2020,7/5/2020,women-and-children,sabah
 114,6942,MYR,f,77,,y,-,18/5/2020,medical-centre,pahang
 115,3616,MYR,m,65,,y,3/4/2020,21/5/2020,sungai-buloh,selangor
+116,7733,MYR,m,61,,y,29/5/2020,4/6/2020,kluang,johor
+117,2296,MYR,f,79,close-contact,26/3/2020,5/6/2020,sungai-buloh,selangor
