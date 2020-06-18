@@ -115,4 +115,8 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 114,6942,MYR,f,77,,y,-,18/5/2020,medical-centre,pahang
 115,3616,MYR,m,65,,y,3/4/2020,21/5/2020,sungai-buloh,selangor
 116,7733,MYR,m,61,,y,29/5/2020,4/6/2020,kluang,johor
-117,2296,MYR,f,79,close-contact,26/3/2020,5/6/2020,sungai-buloh,selangor
+117,2296,MYR,f,79,close-contact,y,26/3/2020,5/6/2020,sungai-buloh,selangor
+118,824,MYR,m,61,tabligh,y,15/3/2020,10/6/2020,sungai-buloh,selangor
+119,8370,MYR,f,85,,-,y,11/6/2020,(home),sabah
+120,8403,MYR,f,96,,-,y,12/6/2020,queen-elizabeth,sabah
+121,7468,IND,m,67,,y,-,12/6/2020,ukm-medical-centre,kuala-lumpur
