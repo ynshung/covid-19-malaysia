@@ -99,12 +99,12 @@ no,case,nationality,gender,age,history,chronic,treatment-date,death-date,hospita
 98,2806,MYR,f,62,close-contact,y,22/3/2020,24/4/2020,kuala-lumpur,kuala-lumpur
 99,4087,MYR,m,78,,y,7/4/2020,27/4/2020,kluang,johor
 100,3628,MYR,m,67,,y,4/4/2020,28/4/2020,sungai-buloh,selangor
-101,4657,MYR,m,64,close-contact,12/4/2020,29/4/2020,tengku-ampuan-afzan,pahang
+101,4657,MYR,m,64,close-contact,y,12/4/2020,29/4/2020,tengku-ampuan-afzan,pahang
 102,5282,MYR,m,72,,y,16/4/2020,30/4/2020,general,sarawak
 103,5441,MYR,m,66,close-contact,y,14/4/2020,30/4/2020,kuala-lumpur,kuala-lumpur
 104,5539,MYR,m,82,,y,22/4/2020,2/5/2020,sungai-buloh,selangor
 105,5837,MYR,m,64,,y,27/4/2020,3/5/2020,tuanku-jaafar,negeri-sembilan
-106,830,MYR,m,47,,15/3/2020,5/5/2020,sungai-buloh,selangor
+106,830,MYR,m,47,,y,15/3/2020,5/5/2020,sungai-buloh,selangor
 107,2380,MYR,m,51,,y,22/4/2020,5/5/2020,sungai-buloh,selangor
 108,2499,MYR,f,74,close-contact-tabligh,y,29/3/2020,8/5/2020,melaka,melaka
 109,6657,MYR,m,63,,y,8/5/2020,10/5/2020,kuala-lumpur,kuala-lumpur
