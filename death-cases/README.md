@@ -6,5 +6,6 @@
 4. Not all treatment date and patient history are given out by MOH. You can help search for offical sources / news site to help fill it in.
 5. A few patient such as 5 and 39 passed away at home before getting treatment / treated and had went back home.
 6. The data provided is fully for educational / analytical purposes.
+7. Starting from Case 142 (8/10/2020), info about the patient treatment & death date are simplified. As such, the date reported is replaced for death date.
 
 🕯️ **May those who had lost in the battle rest in peace.**
