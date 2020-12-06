@@ -43,3 +43,4 @@ Please read the notes before using the data or contributing to the data!
 
 ## License
 This covid-19-malaysia data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/
+If you use this data, it would be helpful to credit this repo in your projects so others can find it easily!
