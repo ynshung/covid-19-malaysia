@@ -22,7 +22,7 @@ Full accuracy of the data cannot be guaranteed.
 
 ## Notes
 Please read the notes before using the data or contributing to the data!
-* I do not include new cases / deaths in the dataset because it can be calculated easily and to include only essential information in it.
+* I do not include new cases / deaths in the dataset because it can be calculated easily, this dataset is to only include essential information.
 * The 'icu' column represents the current number of patients under the intensive care unit **at that date**.
 * Blank spaces means that the values are not available while dashes means not applicable (roughly).
 
