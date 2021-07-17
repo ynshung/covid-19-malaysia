@@ -1,6 +1,9 @@
 # covid-19-malaysia
 Malaysia COVID-19 dataset by country, states and total clusters, updated frequently. Districts, cases types and death cases data are archived.
 
+## Press Releases
+Press release documents related to COVID-19 with scripts to scrape them are in this new [repository](https://github.com/ynshung/covid-19-my-press). All files are in HTML format.
+
 ## Contributing
 You can help by completing some of the dataset left or checking the values/names so that they are correct (especially for districts cases). You can search for the data in the sources below or with other methods.
 
