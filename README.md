@@ -1,13 +1,13 @@
-### This repository is archived. You may refer to official data in [MoH-Malaysia/covid19-public](https://github.com/MoH-Malaysia/covid19-public).
+This repository is currently unmaintained. You may refer to official data in [MoH-Malaysia/covid19-public](https://github.com/MoH-Malaysia/covid19-public).
+
+# covid-19-malaysia
+Malaysia COVID-19 dataset by country, states and total clusters, updated frequently. Districts, cases types and death cases data are archived.
 
 ## Press Releases
 Press release documents related to COVID-19 with scripts to scrape them are in this new [repository](https://github.com/ynshung/covid-19-my-press). All files are in HTML format.
 
 ## Official Data
 The Ministry of Health Malaysia had published their official data in this [repository](https://github.com/MoH-Malaysia/covid19-public) which contains extensive information about new cases, clusters, daily tests, testing centre, hospitals, ICU capacity, MySejahtera data and more on 21 July 2021. It should act as a replacement of this unofficial dataset so it is recommended to migrate to it. Nevertheless this repository will still be continuously updated for compatibility and historical purposes.
-
-# covid-19-malaysia
-Malaysia COVID-19 dataset by country, states and total clusters, updated frequently. Districts, cases types and death cases data are archived.
 
 ## Contributing
 You can help by completing some of the dataset left or checking the values/names so that they are correct (especially for districts cases). You can search for the data in the sources below or with other methods.
