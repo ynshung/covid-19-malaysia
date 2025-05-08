@@ -1,4 +1,4 @@
-This repository is currently unmaintained. You may refer to official data in [MoH-Malaysia/covid19-public](https://github.com/MoH-Malaysia/covid19-public).
+This repository is archived (data as of 10/08/2021) in favor of the official data at [MoH-Malaysia/covid19-public](https://github.com/MoH-Malaysia/covid19-public).
 
 # covid-19-malaysia
 Malaysia COVID-19 dataset by country, states and total clusters, updated frequently. Districts, cases types and death cases data are archived.
